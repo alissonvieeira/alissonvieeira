@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi! I'm Alisson Vieira! 👋
 
-<!--
-**alissonvieeira/alissonvieeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A little about myself:
 
-Here are some ideas to get you started:
+- 👨‍💻 I'm currently working as a **full-stack**.
+- 🔭 I’m currently working on **Laravel**.
+- 🌱 I’m currently learning **React**, **React Native** and **Node**.
+- 😄 Pronouns: he/his.
+- ⚡ Fun fact: I like to read books and take courses in other areas as well. Learning is never too much!
+- 📫 How to reach me: You can find me through **social networks** or through my profile contacts on Github.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> I currently live in Brazil, in the state of Rio Grande do Sul, but I am open to job offers in Brazil and abroad.
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alissonvieeira&show_icons=true&theme=algolia)
