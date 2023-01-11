@@ -22,6 +22,8 @@ I have experience (Tenho experiência):
   <img style="height:4rem; width:5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img style="height:4rem; width:5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
   <img style="height:4rem; width:5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+  <img style="height:4rem; width:5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+  <img style="height:4rem; width:5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img style="height:4rem; width:5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img style="height:4rem; width:5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
   <img style="height:4rem; width:5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
@@ -36,7 +38,8 @@ I am studying (Estou estudando):
 <div style="display: inline_block;">
   <img style="height:4rem; width:5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img style="height:4rem; width:6rem;" src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png" /> 
-  <img style="height:4rem; width:6rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img style="height:4rem; width:5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img style="height:4rem; width:5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
 
 <br><br>
@@ -47,6 +50,25 @@ I am interested in studying (Tenho interesse em estudar):
   <img style="height:4rem; width:5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />  
   <img style="height:4rem; width:5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
   <img style="height:4rem; width:5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+  <img style="height:4rem; width:5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
   <img style="height:4rem; width:5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
   <img style="height:4rem; width:5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+</div>
+
+<br><br>
+My contacts (Meus contatos):
+
+<div>
+  <a href="https://www.linkedin.com/in/alissonvieeira/" target="_blank">
+    <img style="height:4rem; width:5rem;" src="https://www.svgrepo.com/show/205292/linkedin.svg" />
+  </a>
+  <a href="https://www.facebook.com/alissonvieeira/" target="_blank">
+    <img style="height:4rem; width:5rem;" src="https://www.svgrepo.com/show/262914/facebook.svg" />
+  </a>
+  <a href="https://www.instagram.com/alissonvieeira/" target="_blank">
+    <img style="height:4rem; width:5rem;" src="https://www.svgrepo.com/show/262912/instagram.svg" />
+  </a>
+  <a href="https://twitter.com/alissonvieeira" target="_blank">
+    <img style="height:4rem; width:5rem;" src="https://www.svgrepo.com/show/262930/twitter.svg" />
+  </a>
 </div>
