@@ -5,6 +5,7 @@ A little about myself:
 - 👨‍💻 I'm currently working as a **full-stack**.
 - 🔭 I’m currently working on **Laravel**.
 - 🌱 I’m currently learning **React**, **React Native** and **Node**.
+- 👨🏻‍🎓 Bachelor in **Computer Science** from La Salle University. (Bacharel em Ciência da Computação pela Universidade La Salle)
 - 😄 Pronouns: he/his.
 - ⚡ Fun fact: I like to read books and take courses in other areas as well. Learning is never too much!
 - 📫 How to reach me: You can find me through **social networks** or through my profile contacts on Github.
