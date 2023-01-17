@@ -11,10 +11,11 @@ A little about myself:
 - 📫 How to reach me: You can find me through **social networks** or through my profile contacts on Github.
 - 🚀 I have a lot of knowledge in agile methods like Scrum, eXtreme Programming and others with their derivatives.
 
-> I currently live in Brazil, in the state of Rio Grande do Sul, but I am open to job offers in Brazil and abroad.
-<br>
+> **I currently live in Brazil, in the state of Rio Grande do Sul, but I am open to job offers in Brazil and abroad.**
 
-I have experience (Tenho experiência):
+<hr>
+
+👴🏻 I have experience (Tenho experiência):
 <div style="display: inline_block;">
   <img style="height:4rem; width:5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img style="height:4rem; width:5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
@@ -33,7 +34,7 @@ I have experience (Tenho experiência):
 </div>
 
 <br><br>
-I am studying (Estou estudando):
+👩🏻‍💻 I am studying (Estou estudando):
 <div style="display: inline_block;">
   <img style="height:4rem; width:5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img style="height:4rem; width:6rem;" src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png" /> 
@@ -42,7 +43,7 @@ I am studying (Estou estudando):
 </div>
 
 <br><br>
-I am interested in studying (Tenho interesse em estudar):
+👍🏻 I am interested in studying (Tenho interesse em estudar):
 <div style="display: inline_block;">
   <img style="height:4rem; width:5rem;" src="https://raw.githubusercontent.com/innocenzi/awesome-inertiajs/master/assets/logo.svg" />
   <img style="height:4rem; width:5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
@@ -55,7 +56,7 @@ I am interested in studying (Tenho interesse em estudar):
 </div>
 
 <br><br>
-My contacts (Meus contatos):
+🗺 My contacts (Meus contatos):
 
 <div>
   <a href="https://www.linkedin.com/in/alissonvieeira/" target="_blank">
