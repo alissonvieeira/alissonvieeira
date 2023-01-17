@@ -14,8 +14,6 @@ A little about myself:
 > I currently live in Brazil, in the state of Rio Grande do Sul, but I am open to job offers in Brazil and abroad.
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alissonvieeira&show_icons=true&theme=darcula)
-
 I have experience (Tenho experiência):
 <div style="display: inline_block;">
   <img style="height:4rem; width:5rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
